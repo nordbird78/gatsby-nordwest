@@ -1,0 +1,10 @@
+    {
+        "development": {
+            "apiUrl": "https://nordwest.herokuapp.com",
+            "contentApiKey": "9e19e9e1fe5319b113bbebce3c"
+        },
+        "production": {
+            "apiUrl": "https://nordwest.herokuapp.com",
+            "contentApiKey": "9e19e9e1fe5319b113bbebce3c"
+        }
+    }
